@@ -10,8 +10,7 @@ I’m a Computer Science student who likes understanding how things work under t
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-mft&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=abdallah-mft&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
