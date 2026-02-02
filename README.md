@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m a Computer Science student who likes understanding how things work under the hood.<br>I care about clean architecture, strong fundamentals, and writing code that survives refactoring.<br>Most of my time goes into learning by building, breaking, and rebuilding systems.
 
 
