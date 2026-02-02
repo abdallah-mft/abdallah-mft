@@ -1,5 +1,5 @@
 #  About Me:
-Average CSE student who enjoys coding and problem-solving.
+3/5 CSE engineer who enjoys coding and problem-solving.
 Likes turning messy ideas into working solutions.
 Into calisthenics.
 
