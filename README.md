@@ -1,8 +1,8 @@
 # About
 
-3/5 CSE / Computer Science engineer.  
+3/5 CSE / Computer Science Engineer.  
 Enjoys coding, problem-solving, and turning messy ideas into working solutions.  
-Does calisthenics.
+Into calisthenics.
 
 ---
 
