@@ -1,8 +1,10 @@
 # About
 
-3/5 CSE / Computer Science Engineer.  
+4/5 CSE / Computer Science Engineer.  
 Enjoys coding, problem-solving, and turning messy ideas into working solutions.  
 Into Calisthenics.
+
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/6dfa74d7-51ea-4029-bcec-49e1a62ea8f1" />
 
 ---
 
