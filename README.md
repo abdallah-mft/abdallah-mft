@@ -14,4 +14,4 @@ GitHub: https://github.com/abdallah-mft
 
 ## Current Goal
 
-Studying DevOps & Cybersecurity beyond the basics.
+Studying Cybersecurity...
