@@ -8,9 +8,7 @@ Building scalable applications, designing clean interfaces, and continuously lea
 
 ## Links
 
-Portfolio: https://abdallah-mft.github.io/Portfolio/
-
-GitHub: https://github.com/abdallah-mft
+Instagram: https://instagram.com/aletheiophile
 
 ## Current Goal
 
